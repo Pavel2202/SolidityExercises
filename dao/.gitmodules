@@ -1,0 +1,6 @@
+[submodule "charity-dao/lib/forge-std"]
+	path = charity-dao/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "charity-dao/lib/openzeppelin-contracts"]
+	path = charity-dao/lib/openzeppelin-contracts
+	url = https://github.com/Openzeppelin/openzeppelin-contracts
